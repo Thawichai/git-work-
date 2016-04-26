@@ -1,0 +1,9 @@
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\bin\Debug\work.exe
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\bin\Debug\work.pdb
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\bin\Debug\work.xml
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\obj\x86\Debug\work.vbproj.GenerateResource.Cache
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\obj\x86\Debug\work.exe
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\obj\x86\Debug\work.xml
+D:\thawichai  (คม)\mini projec\อาจารย์ชานนท์\work\work\obj\x86\Debug\work.pdb
